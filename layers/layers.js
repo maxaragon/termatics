@@ -75,7 +75,7 @@ var lyr_hexagons_std_dev_1 = new ol.layer.Vector({
       layers: layersList,
       view: new ol.View({
           center: ol.proj.fromLonLat([14.37611, 48.27639]), // Transform from EPSG:4326 to EPSG:3857 
-          zoom: 12 // for example
+          zoom: 14 // for example
       })
   });
   
